@@ -14,6 +14,8 @@ struct ContentView: View {
             Text("Jie Ning")
                 .font(.largeTitle)
                 .bold()
+            Text("Xu Biao")
+                .bold()
         }
         .ignoresSafeArea()
     }
